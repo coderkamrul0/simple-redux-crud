@@ -1,8 +1,24 @@
-# React + Vite
+# Simple React Redux CRUD Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![App Screenshot](https://i.ibb.co/gWL6Gzt/dddddddddd.png)
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add books
+- Edit book details
+- Delete books
+
+## Technology Stack
+
+- **REACT**
+- **REDUX**
+- **TAILWIND**
+
+## How to Use
+
+1. **Installation:**
+   - Clone the repository
+   - Run `npm install` to install dependencies
+
+2. **Run:**
+   - Execute `npm run dev` to run the application
